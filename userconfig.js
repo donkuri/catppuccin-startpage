@@ -8,7 +8,7 @@ const default_config = {
     scale: "C",
   },
   clock: {
-    format: "yyyy年MM月dd日 HH:mm",
+    format: "h:i p",
     iconColor: palette.maroon,
   },
   disabled: [],
@@ -59,7 +59,7 @@ const default_config = {
             },
             {
               name: "Media Recommendations",
-              url: "https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540"
+              url: "https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=1999205540#gid=1999205540",
               icon: "table",
               icon_color: palette.green,
             },
@@ -110,10 +110,10 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-                name: "Odin Project",
-                url: "https://www.theodinproject.com",
-                icon: "circle-triangle",
-                icon_color: palette.blue,
+              name: "Odin Project",
+              url: "https://www.theodinproject.com",
+              icon: "circle-triangle",
+              icon_color: palette.blue,
             },
           ],
         },
@@ -179,10 +179,10 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-                name: "ttsu",
-                url: "https://reader.ttsu.app/",
-                icon: "books",
-                icon_color: palette.blue,
+              name: "ttsu",
+              url: "https://reader.ttsu.app/",
+              icon: "books",
+              icon_color: palette.blue,
             },
             {
               name: "mokuro",
@@ -231,10 +231,10 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-                name: "JPTV",
-                url: "https://jptv.club/login",
-                icon: "antenna",
-                icon_color: palette.green,
+              name: "JPTV",
+              url: "https://jptv.club/login",
+              icon: "antenna",
+              icon_color: palette.green,
             },
           ],
         },
