@@ -175,7 +175,7 @@ const default_config = {
             {
               name: "asbplayer",
               url: "https://killergerbah.github.io/asbplayer/",
-              icon: "",
+              icon: "device-tv",
               icon_color: palette.red,
             },
             {
@@ -187,7 +187,7 @@ const default_config = {
             {
               name: "mokuro",
               url: "https://catalog.mokuro.moe/",
-              icon: "layers-selected",
+              icon: "layers-subtract",
               icon_color: palette.green,
             },
           ],
